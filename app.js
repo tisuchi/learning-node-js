@@ -13,3 +13,8 @@
 // Get file and diretory name
 // console.log(__dirname);
 // console.log(__filename);
+
+
+var myCounter = require('./counter');
+
+console.log(myCounter(['suchi', 'sharmin', 'kochi', 'eva']));
