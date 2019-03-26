@@ -18,3 +18,7 @@
 var myCounter = require('./counter');
 
 console.log(myCounter(['suchi', 'sharmin', 'kochi', 'eva']));
+
+
+// Complete lesson 
+https://www.youtube.com/watch?v=xHLd36QoS4k&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp&index=6
